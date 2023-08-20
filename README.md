@@ -9,9 +9,9 @@
 <ul>
     <li><p>🤼‍♂️ Player vs Player mode: Play against a friend locally.</p></li>
     <li><p>👨‍💻 Player vs Computer mode: Play against your own machine.</p></li>
-    <li><p>✨ Simple and interactive interface.</p></li>
+    <li><p>✨ Simple and interactive interface with coloured X(s) and O(s).</p></li>
     <li><p>❌ Error handling for invalid moves.</p></li>
-    <li><p>🏆 Win condition detection.</p></li>
+    <li><p>🏆 Win condition detection + Blinking effect.</p></li>
     <li><p>🤝 Draw condition detection.</p></li>
 </ul>
 
